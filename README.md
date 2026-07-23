@@ -1,6 +1,6 @@
 # Hello! I'm Rohitha 👋
 
-### About Me 👉
+## About Me 👉
 
 I'm a software developer passionate about building scalable web applications and continuously learning new technologies. I'm currently focused on full-stack application development using Python, Java, Spring Boot, FastAPI, React, MySQL, and AWS.
 
@@ -10,50 +10,50 @@ I enjoy exploring different approaches to solving a problem and learning somethi
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-#### Languages
+### Languages
 - Python
 - Java
 - JavaScript
 - TypeScript
 
-#### Backend
+### Backend
 - Spring Boot
 - Spring AI
 - JWT Authentication
 - RESTful APIs
 - FastAPI
 
-#### Frontend
+### Frontend
 - React
 - HTML/CSS
 
-#### Database
+### Database
 - MySQL
 - PostgreSQL
 - MongoDB
 
-#### AI/LLM Integration
+### AI/LLM Integration
 - RAG(Retrieval-Augmented Generation)
 - Vector Embeddings
 - Google Gemini API
 
-#### Cloud & Tools
+### Cloud & Tools
 - AWS(EC2, S3, Elastic Beanstalk)
 - Docker
 - Git
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Artificial Intelligence & Machine Learning
 - Cloud Technologies
 
 ---
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 - 📧 Mail: rohithaponnapalli25@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/rohithaponnapalli/
@@ -61,7 +61,7 @@ I enjoy exploring different approaches to solving a problem and learning somethi
 
 ---
 
-### 🚀 Open to Opportunities
+## 🚀 Open to Opportunities
 
 I'm actively looking for opportunities where I can contribute, learn, and grow. If you're looking for a curious, creative, and enthusiastic developer, I'd love to connect!
 
