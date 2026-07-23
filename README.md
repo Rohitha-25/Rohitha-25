@@ -67,4 +67,4 @@ I'm actively looking for opportunities where I can contribute, learn, and grow. 
 
 ---
 
-### ⭐ Thanks for stopping by! Feel free to explore my repositories or reach out — I'm happy to connect and collaborate.
+#### ⭐ Thanks for stopping by! Feel free to explore my repositories or reach out — I'm happy to connect and collaborate.
