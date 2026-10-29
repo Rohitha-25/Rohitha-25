@@ -6,11 +6,13 @@ I build secure, scalable applications and explore how software engineering, arti
 
 My work spans full-stack development, AI-powered automations, agentic workflows, and identity-event monitoring using Okta.
 
+```
 🔭 Currently exploring: Identity Security, Okta IAM and Workflows, and Agentic AI
 🛠️ Core technologies: Java, Spring Boot, React.js, Python, and FastAPI
 🤖 AI & LLMs: RAG, LangChain, LangGraph, Spring AI, and Google Gemini
 🔐 Security & IAM: OAuth 2.0, OIDC, JWT, RBAC, and PAM/JIT
 🌱 Approach: Learning by building, experimenting, and turning ideas into working applications.
+```
 
 ---
 
